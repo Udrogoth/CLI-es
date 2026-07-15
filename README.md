@@ -16,4 +16,4 @@ Ejecuta cualquier archivo **.es, con la sintaxis correspondiente** con el comand
 
 <img width="744" height="682" alt="server" src="https://github.com/user-attachments/assets/072ae147-7159-478f-b5fa-130e62200dbe" />
 
-**Full Changelog**: https://github.com/Udrogoth/CLI-es/compare/v1.1.0)...v1.1.0)
+**Full Changelog**: [https://github.com/Udrogoth/CLI-es/compare/v1.1.0)...v1.1.0)](https://github.com/Udrogoth/CLI-es/releases/tag/CLI-es)
