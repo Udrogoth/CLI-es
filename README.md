@@ -14,7 +14,6 @@ Ejecuta cualquier archivo **.es, con la sintaxis correspondiente** con el comand
 **.\CLI-es-win**    _nombre_de_tu_archivo.es_
 
 
-<img width="600" height="445" alt="api" src="https://github.com/user-attachments/assets/a582f0bf-434d-40de-b4b8-6acb431ad930" />
 
 <img width="750" height="525" alt="pokeapi" src="https://github.com/user-attachments/assets/49013e51-5f76-4661-a857-122bd714a8fc" />
 
