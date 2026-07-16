@@ -7,6 +7,8 @@ Esta es la versión estable del intérprete para el lenguaje .es, compilado y li
 Cómo usarlo
 Descarga el archivo CLI-es-win.exe adjunto.
 
+https://github.com/Udrogoth/CLI-es/tags 
+
 Abre tu terminal en la carpeta donde lo guardaste.
 
 Ejecuta cualquier archivo **.es, con la sintaxis correspondiente** con el comando:
